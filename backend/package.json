@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "vue": "^3.4.38",
+    "vue-router": "^4.4.3"
+  },
+      "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.43",
+    "tailwindcss": "^3.4.10"
+  },
+  "require": {
+    "php": "^7.4",
+    "laravel/framework": "^8.0"
+  }
+}
